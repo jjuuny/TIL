@@ -73,7 +73,9 @@ var jData = {username : "홍길동", tel:"010-8965-8963",
 
 ### Js11_setInterval
 
+`setInterval("호출할 함수명", 밀리초)`  설정한 시간 간격으로 호출됨
 
+`clearInterval`  interval을 중지시킴
 
 ### login.html
 
@@ -88,9 +90,3 @@ Ul div div(하단)로 분리
 
 
 
-
-
-
-구글맵 geoCode 받아오기
-
-js10 코드 받기
